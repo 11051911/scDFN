@@ -10,16 +10,16 @@ Single-cell RNA sequencing (scRNA-seq) technology can be used to perform high-re
 * python 3.8+
 ## Dependency
 
-*Pytorch (2.0+)
-*Numpy  1.26.4
-*Torchvision 0.17.2
-*Matplotlib 3.8.4
-*h5py 3.11.0
-*Matplotlib 3.8.4
-*pandas 2.2.2
-*numpy 1.26.4
-*scanpy 1.10.1
-*scipy 1.12.0
+* Pytorch (2.0+)
+* Numpy  1.26.4
+* Torchvision 0.17.2
+* Matplotlib 3.8.4
+* h5py 3.11.0
+* Matplotlib 3.8.4
+* pandas 2.2.2
+* numpy 1.26.4
+* scanpy 1.10.1
+* scipy 1.12.0
 
 ## Installation
 
