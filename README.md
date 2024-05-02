@@ -32,7 +32,7 @@ Single-cell RNA sequencing (scRNA-seq) technology can be used to perform high-re
 
 3. Activate the prosperousplus environment and install the dependencies.
 
-   ```conda activate prosperousplus```
+   ```conda activate scDFN```
 
    ```pip install or conda install```
 
